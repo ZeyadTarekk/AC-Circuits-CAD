@@ -1,0 +1,7 @@
+w 0
+vsrc v1 1 0 160 0
+res r1 1 2 10
+res r2 2 3 30
+res r3 2 0 100
+ccvs i1 3 4 2 0 r3 150
+res r4 4 0 20

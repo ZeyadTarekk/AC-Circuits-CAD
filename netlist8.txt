@@ -1,0 +1,9 @@
+w 1
+vsrc v1 1 0 60 0
+res r1 1 2 2
+ind l1 2 3 4
+res r2 3 0 6
+cap c1 3 4 0.5
+res r3 4 5 4
+cap c2 5 0 0.3333
+isrc i1 4 0 5 90
